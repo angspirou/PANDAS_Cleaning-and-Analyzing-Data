@@ -1,6 +1,6 @@
 # PANDAS_Cleaning-and-Analyzing-Data
 
-### This assignment entails analyzing data for a fantasy game named "Heroes of Pymoli." In this game, players are encouraged to purchase optional items that enhance their playing experience. The file named "Pandas-Analysis-HeroesOfPymoli" is a script written in order to generate a report that breaks down the game's purchasing data into meaningful insights. 
+### This project entails analyzing data for a fantasy game named "Heroes of Pymoli." In this game, players are encouraged to purchase optional items that enhance their playing experience. The file named "Pandas-Analysis-HeroesOfPymoli" is a script written in order to generate a report that breaks down the game's purchasing data into meaningful insights. 
 
 ## Description of Three Observable Trends:
 
